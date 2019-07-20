@@ -1,0 +1,12 @@
+.card > img {
+	width: 100%;
+}
+
+.delete-form {
+	display: inline;
+}
+
+.btn-xs {
+  padding: .25rem .4rem;
+  font-size: .875rem;
+}
